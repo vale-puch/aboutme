@@ -1,0 +1,60 @@
+<html>
+    <head>
+         <link rel="stylesheet"  type="text/css" href="vp15f.css" type="text/css">
+         
+    </head>
+    <body>
+    <title>About Me</title>
+    <h1>About Me</h1>
+    <h2>Who is She?</h2>
+  
+    <p>My name is Valeria Puchaicela, but everyone calls me either Vale or Val! I am a junior at Florida State majoring in ICT. I am originally from a city called Pembroke Pines, which is located in South Florida. I lived there for my entire childhood, with the exception of the year when my family and I moved to Quito, the capital of Ecuador. Ecuador is the country where my dad is originally from, so as a result I have a lot of family there. I also have a lot of family in Colombia, the country where my mom is originally from. Growing up with South American parents, Spanish was the first language that I learned. Being bilingual has definitely given me an advantage in life, especially when it's come to my family and I's travels. Traveling is our favorite thing to do together and as a result I've had the privilege of visiting 21 different countries. Other than traveling, some of my interests include creative writing, shopping, cooking and hanging out with my friends.</p>
+
+    <img src="images/fam.jpg" width="300" height= "400" > <img src="images/pasta.jpg" width="500" height= "400"> <img src="images/girlies.jpg" width="300" height= "400"> 
+
+    
+    <h3>Interests, Hometown and Career Goals</h3>
+    
+                <ol>
+                <li>Traveling</li>
+                <li>Creative writing</li>
+                <li>Hanging out with friends</li>
+                <li>Cooking</li>
+                <li>Shopping</li> 
+                </ol>
+                 
+     <table border = "1/2">
+            <tr>
+                <ul>
+                
+                <td><A HREF="https://www.aventuramall.com/">Interest</A></td>
+                <td><A HREF="https://www.aa.com/homePage.do">Interest</A></td>
+                <td><A HREF="http://www.foodnetwork.com/"</>Interest</A></td>
+                <td><A HREF="http://www.ppines.com/"</>Hometown/State</A></td>
+                <td><A HREF="https://disneyworld.disney.go.com/"</>Hometown/State</A></td>
+                <td><A HREF="http://www.floridashollywood.org/hollywoodbeachbroadwalk.aspx"</>Hometown/State</A></td>
+                <td><A HREF="https://careers.google.com/"</>Future Career Goal</A></td>
+                <td><A HREF="https://jobs.disneycareers.com/"</>Future Career Goal</A></td>
+                <td><A HREF="https://www.forbes.com/sites/brentbeshore/2012/12/10/the-non-entrepreneurs-guide-to-starting-in-startups/#1d8393067edd"</>Future Career Goal</A></td>
+                              
+            </tr><tr>
+            
+            </ul>
+               
+        </table>
+           
+    <h4>Here I Am</h4>
+    
+    <center><img src = "images/me.jpg" height = "400" width = "300px" ></center>
+    
+    
+    <h5>Hit Me Up</h5>
+    
+    <center><A HREF="mailto:vp15f@my.fsu.edu">Email</A></center>
+    
+    
+    
+   
+    </body>
+    
+</html>
